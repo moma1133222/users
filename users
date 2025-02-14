@@ -1,2 +1,32 @@
-ilysmm_4ever
-ssykopathic
+{
+  "previousPageCursor": "eyJrZXkiOiIwIiwic29ydE9yZGVyIjoiRGVzYyIsInBhZ2luZ0RpcmVjdGlvbiI6IkJhY2t3YXJkIiwicGFnZU51bWJlciI6MSwiZGlzY3JpbWluYXRvciI6Imdyb3VwSWQ6OTU3MjQ2MSIsImNvdW50IjoxMDB9",
+  "nextPageCursor": "eyJrZXkiOiIyMjAzMzQ5NTcyIiwic29ydE9yZGVyIjoiQXNjIiwicGFnaW5nRGlyZWN0aW9uIjoiRm9yd2FyZCIsInBhZ2VOdW1iZXIiOjEsImRpc2NyaW1pbmF0b3IiOiJncm91cElkOjk1NzI0NjEiLCJjb3VudCI6MTAwfQ",
+  "data": [
+    {
+      "user": {
+        "hasVerifiedBadge": false,
+        "userId": 1234567890,
+        "username": "ilysmm_4ever",
+        "displayName": "Ilysm Forever"
+      },
+      "role": {
+        "id": 94527791,
+        "name": "🌟 | Special Member",
+        "rank": 1
+      }
+    },
+    {
+      "user": {
+        "hasVerifiedBadge": false,
+        "userId": 9876543210,
+        "username": "ssykopathic",
+        "displayName": "Ssykopathic"
+      },
+      "role": {
+        "id": 94527792,
+        "name": "🌟 | Special Member",
+        "rank": 1
+      }
+    }
+  ]
+}
